@@ -1,0 +1,30 @@
+[
+    {
+        "nama"  : "Taufiq Pop",
+        "umur"  : 22,
+        "nim"   : "L20190085",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1"   : "Maryam S.Kom",
+            "pembimbing2"   : "Fatah Yasin S.Kom"
+        }
+    },
+    {
+        "nama"  : "Lala Dwi Alfiyah",
+        "umur"  : 22,
+        "nim"   : "L100190174",
+        "lulus" : true,
+        "hobby" : [
+            "watch anime",
+            "holiday"
+        ],
+        "pembimbing" : {
+            "pembimbing1"   : "Maryam S.Kom",
+            "pembimbing2"   : "Fatah Yasin S.Kom"
+        }
+    }
+]
