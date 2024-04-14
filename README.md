@@ -1,4 +1,2 @@
-# tutorial-rest-api
-Belajar Rest API
-
-## https://restfulapi.net
+# Tutorial Rest API
+#### https://restfulapi.net
